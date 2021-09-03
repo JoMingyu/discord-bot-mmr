@@ -1,4 +1,5 @@
 # What is my MMR?
+<img width="357" alt="스크린샷 2021-09-03 오후 8 29 42" src="https://user-images.githubusercontent.com/21031883/131998867-507429c8-89f1-45c4-8ff4-44f4ae69857a.png">
 
 MMR 알려주는 디스코드 봇입니다. 명령어는 `/mmr {nickname}` 하나밖에 없음. 데이터 근거는 [whatismymmr API](https://dev.whatismymmr.com/) 이용.
 
