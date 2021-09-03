@@ -65,10 +65,10 @@ class MMR(BaseModel):
         return f"""
 솔로랭크
 {solo_rank}
-        
+
 노말
 {normal}
-        
+
 무작위 총력전
 {aram}
         """.strip()
